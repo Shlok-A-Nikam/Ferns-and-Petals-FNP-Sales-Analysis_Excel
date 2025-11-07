@@ -1,4 +1,6 @@
 # Ferns-and-Petals-FNP-Sales-Analysis_Excel
+<img width="1833" height="806" alt="Final Dashboard" src="https://github.com/user-attachments/assets/4ce60509-e558-4e17-9d41-5d6d2dde8ae1" />
+
 
 ## Project Overview
 This project presents a comprehensive sales analysis for Ferns and Petals (FNP) — a gifting platform offering products for occasions like Anniversary, Birthday, Diwali, Holi, Raksha Bandhan, and Valentine’s Day.
