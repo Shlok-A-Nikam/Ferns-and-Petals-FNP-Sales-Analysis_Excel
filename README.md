@@ -7,7 +7,7 @@ This project presents a comprehensive sales analysis for Ferns and Petals (FNP) 
 The dataset includes customer, order, and product information from 2023, analyzed to uncover sales performance trends, popular categories, delivery efficiency, and customer spending behavior.
 
 ## The goal is to identify data-driven insights to help FNP:
-•	Improve marketing strategies
+• 	Improve marketing strategies
 •	Optimize logistics and delivery performance
 •	Enhance customer experience and boost total revenue
 
