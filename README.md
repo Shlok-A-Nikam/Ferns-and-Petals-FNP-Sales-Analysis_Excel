@@ -59,17 +59,17 @@ ________________________________________
 3) Which are the top 10 cities contributing the highest number of orders?
 		
 ### Product & Revenue Insights
-1)Which are the top products by revenue?
-2)Category Wise Revenue ?
-3)How does revenue differ between occasions (e.g., Diwali vs. Valentine’s Day)?
+1) Which are the top products by revenue?
+2) Category Wise Revenue ?
+3) How does revenue differ between occasions (e.g., Diwali vs. Valentine’s Day)?
 
 ### Customer Analysis
-1)What is the average customer spending per order?
-2)What is the average order and delivery time
-3)Is there a relationship between order quantity and delivery time?
- 
+1) What is the average customer spending per order?
+2) What is the average order and delivery time
+3) Is there a relationship between order quantity and delivery time?
+
 ### Occasion & Popularity Trends
-1)Which products are most popular for each occasion?)
+1) Which products are most popular for each occasion?)
 ________________________________________
 ## Tools & Techniques Used
 •	Microsoft Excel
