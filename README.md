@@ -53,22 +53,22 @@ ________________________________________
 •	Provide insights for marketing and logistics optimization
 ________________________________________
 ##  Key Business Questions
-1. Sales Performance
+### 1. Sales Performance
 1) Total Revenue
 2) How does sales performance vary across months?
 3) Which are the top 10 cities contributing the highest number of orders?
 		
-## Product & Revenue Insights
+### Product & Revenue Insights
 1)Which are the top products by revenue?
 2)Category Wise Revenue ?
 3)How does revenue differ between occasions (e.g., Diwali vs. Valentine’s Day)?
 
-## Customer Analysis
+### Customer Analysis
 1)What is the average customer spending per order?
-2)What is the avera
+2)What is the average order and delivery time
 3)Is there a relationship between order quantity and delivery time?
- ## 
- Occasion & Popularity Trends
+ 
+### Occasion & Popularity Trends
 1)Which products are most popular for each occasion?)
 ________________________________________
 ## Tools & Techniques Used
