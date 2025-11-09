@@ -14,35 +14,35 @@ The dataset includes customer, order, and product information from 2023, analyze
 ## Dataset Description
 ## 1. Customers Table
 
-Customer_ID =	Unique identifier for each customer
-Name =	Full name of the customer
-City	= Customer’s city/location
-Contact Number =	Customer’s phone number
-Email =	Customer’s email ID
-Gender =	Male/Female
-Address	 = Full delivery address
+#### Customer_ID =	Unique identifier for each customer
+#### Name =	Full name of the customer
+#### City	= Customer’s city/location
+#### Contact Number =	Customer’s phone number
+#### Email =	Customer’s email ID
+#### Gender =	Male/Female
+#### Address	 = Full delivery address
 ## 2. Orders Table
-Order_Date	 = Date of order placement
-Order_Time	 = Time of order placement
-Delivery_Date	 = Date of delivery
-Delivery_Time	 = Time of delivery
-Location	= Delivery city
-Occasion	= Type of occasion (e.g., Diwali, Anniversary, etc.)
-Month Name	= Month derived from the order date
-Hour (Order Time)	= Hour extracted from order time
-Diff_Order_Delivery	= Delivery time difference (days)
-Price (INR)	= Product unit price
-Revenue	= Total order amount
-Day Name =	Day of the week of order
+#### Order_Date	 = Date of order placement
+#### Order_Time	 = Time of order placement
+#### Delivery_Date	 = Date of delivery
+#### Delivery_Time	 = Time of delivery
+#### Location	= Delivery city
+#### Occasion	= Type of occasion (e.g., Diwali, Anniversary, etc.)
+#### Month Name	= Month derived from the order date
+#### Hour (Order Time)	= Hour extracted from order time
+#### Diff_Order_Delivery	= Delivery time difference (days)
+#### Price (INR)	= Product unit price
+#### Revenue	= Total order amount
+#### Day Name =	Day of the week of order
 
 ## 3. Products Table
 
-Product_ID	= Unique identifier for each product
-Category	= Product category (e.g., Soft Toys, Plants, Cake, etc.)
-Price (INR) = 	Product price
-Occasion	= Related occasion
-Description	= Short product description
-Product Name	 = Name/title of the product
+#### Product_ID	= Unique identifier for each product
+#### Category	= Product category (e.g., Soft Toys, Plants, Cake, etc.)
+#### Price (INR) = 	Product price
+#### Occasion	= Related occasion
+#### Description	= Short product description
+#### Product Name	 = Name/title of the product
 ________________________________________
 ##  Business Objectives
 
